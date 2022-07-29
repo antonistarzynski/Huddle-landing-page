@@ -12,7 +12,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 ### Links
 
 - Solution URL: [click here](https://github.com/antonistarzynski/Huddle-landing-page)
-- Live Site URL: [click here](https://your-live-site-url.com)
+- Live Site URL: [click here](https://antonistarzynski.github.io/Huddle-landing-page/)
 
 ## My process
 
